@@ -190,6 +190,7 @@
   },
   "homepage": "https://ember-nexus.github.io/app-library-action/#/",
   "dependencies": {
+    "@ember-nexus/web-sdk": "^0.0.59",
     "reflect-metadata": "^0.2",
     "tslog": "^4.8.2",
     "typedi": "^0.10.0"

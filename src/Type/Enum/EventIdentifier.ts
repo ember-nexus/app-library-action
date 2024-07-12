@@ -1,6 +1,7 @@
 enum EventIdentifier {
   // action
-  Action = 'ember-nexus-action',
+  CreateElement = 'ember-nexus-action-create-element',
+  CreateElementFromTemplate = 'ember-nexus-action-create-element-from-template',
 }
 
 export { EventIdentifier };
