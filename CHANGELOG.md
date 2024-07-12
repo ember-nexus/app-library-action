@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Add create element and create element from template events.
+### Fixed
+- Fix `types` attribute in `package.json`, closes #1.
 
 ## 0.0.1 - 2024-07-09
 ### Added
